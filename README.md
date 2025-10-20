@@ -1,1 +1,1 @@
-# Projecte3--Sobreviure-Empresa-IT
+# Projecte3-Sobreviure-Empresa-IT
