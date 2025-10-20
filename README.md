@@ -72,3 +72,11 @@ A més, EverPia segueix sent una de les millors empreses on començar:on cada pr
  cada error és una lliçó, i cada tècnic… un heroi anònim del backend.
 Benvinguts a EverPia 2: “Sobreviure en una empresa IT” El foc ja està encès. Ara és el vostre torn d’agafar l’extintor… i el teclat.
 
+---
+
+### ENLLAÇ A TASQUES
+
+Tasca [T01](T01-Gestor-de-contrasenyes)
+
+
+
