@@ -28,3 +28,9 @@ Com generar contrasenyes segures amb l’eina.
 Exemples d’ús, com desar credencials o utilitzar l’extensió del navegador.
 Les instruccions per fer còpies de seguretat i guardar-les de manera segura.
 A més, afegiré captures de pantalla que guardaré dins una carpeta anomenada img/.
+
+---
+
+Entrada a [Informe](Informe.md)
+Entrada a [Guia](Guia.md)
+Torna a [Home](...)
