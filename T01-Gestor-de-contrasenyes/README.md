@@ -1,7 +1,5 @@
 Aquesta tasca tracta d’un escenari en què EverPia, l’empresa per a la qual treballo com a becari, ha patit un atac informàtic i una fuita d’informació confidencial. Els ciberdelinqüents han aconseguit accedir a dades sensibles a causa d’una contrasenya feble o reutilitzada d’un compte tècnic.
 
----
-
 Com a resultat, la direcció tècnica ha decidit que tot el personal comenci a utilitzar un gestor de contrasenyes per millorar la seguretat i evitar que situacions com aquesta tornin a passar.
 La meva tasca consisteix a avaluar diferents gestors de contrasenyes i crear la documentació necessària perquè l’equip tècnic pugui fer-ne un ús correcte.
 
