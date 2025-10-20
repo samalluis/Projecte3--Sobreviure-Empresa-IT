@@ -1,3 +1,5 @@
+# Descripció tasca 01: Gestor de contrasenyes
+
 Aquesta tasca tracta d’un escenari en què EverPia, l’empresa per a la qual treballo com a becari, ha patit un atac informàtic i una fuita d’informació confidencial. Els ciberdelinqüents han aconseguit accedir a dades sensibles a causa d’una contrasenya feble o reutilitzada d’un compte tècnic.
 
 Com a resultat, la direcció tècnica ha decidit que tot el personal comenci a utilitzar un gestor de contrasenyes per millorar la seguretat i evitar que situacions com aquesta tornin a passar.
@@ -5,7 +7,7 @@ La meva tasca consisteix a avaluar diferents gestors de contrasenyes i crear la 
 
 ---
 
-# 🧩 Fase 1: Anàlisi i Justificació
+## 🧩 Fase 1: Anàlisi i Justificació
 
 En aquesta primera fase redactaré un informe tècnic (informe.md) on:
 Explicaré per què les contrasenyes febles o reutilitzades són un risc per a la seguretat de l’empresa.
@@ -17,7 +19,7 @@ Analitzaré els avantatges i inconvenients de cada opció i recomanaré la que c
 
 ---
 
-# 🧰 Fase 2: Guia d’Ús Tècnica
+## 🧰 Fase 2: Guia d’Ús Tècnica
 
 A la segona fase crearé una guia pràctica (guia.md) basada en l’eina que hagi triat a la Fase 1.
 Aquesta guia inclourà:
