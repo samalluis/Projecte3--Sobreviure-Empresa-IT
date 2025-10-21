@@ -1,14 +1,12 @@
 # Fase 1: Anàlisi i Justificació (Document d'Informe)
 
-Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcció i comparin les opcions. 
-
 ## Introducció i Justificació:
 
 ### · Explicació de per què les contrasenyes febles o reutilitzades són un risc crític per a l'empresa.
 
 **Les contrasenyes febles o reutilitzades** representen un **risc crític** per a la seguretat empresarial. Atacs com els diccionaris o el credential stuffing permeten als atacants provar milions de combinacions de contrasenyes filtrades en altres serveis.
 
-Això pot derivar en accessos no autoritzats, robatori d’informació confidencial o segrest de comptes.
+Això pot derivar en que si tens contrasenyes com "123456" o "contraseña" pugui acabar en accessos no autoritzats, robatori d’informació confidencial o segrest de comptes.
 
 ### · La funció crucial d'un gestor de contrasenyes per mitigar aquests riscos.
 
