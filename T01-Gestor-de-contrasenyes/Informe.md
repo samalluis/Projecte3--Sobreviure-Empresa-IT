@@ -74,3 +74,7 @@ Després de comparar ambdós models, la recomanació és adoptar **KeePassXC** c
 
 Per tant, **KeePassXC** és l’opció òptima per a un equip tècnic que prioritza la **seguretat, la privadesa i la independència tecnològica**, mentre que **Bitwarden** pot reservar-se com a eina complementària per a altres departaments amb necessitats de sincronització automàtica o gestió col·laborativa.
 
+---
+
+▶️Fes click aqui per anar a la secció de [GUIA](Guia.md)
+
