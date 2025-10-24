@@ -79,5 +79,38 @@ Benvinguts a EverPia 2: “Sobreviure en una empresa IT” El foc ja està encè
 
 Tasca **[T01](T01-Gestor-de-contrasenyes)**
 
+Tasca **[T02](T02-Gestió-emmagatzematge)**
+
+Tasca **[T03](T03-Gestió-flexible-de-discos)**
+
+Tasca **[T04](T04-Serveis-de-directori.LDAP)**
+
+Tasca **[T05](T05-Anàlisi-de-l’entorn)**
+
+Tasca **[T06](T06-Fonaments-del-servei-DNS)**
+
+Tasca **[T07](T07-Instal·lant-un-servidor-de-noms)**
+
+Tasca **[T08](T08-Sitemaps-i-Estructura-d’una-pàgina-web)**
+
+Tasca **[T09](T09-ODS-i-el-sector-IT)**
+
+Tasca **[T10](T10-ASG-a-EverPia-informe-visual-per-a-inversors)**
+
+Tasca **[P01](P01-Kanban-del-projecte)**
+
+Tasca **[P02](P02-Repositori-de-GitHub)**
+
+Tasca **[P03](P03-Rèplica-web)**
+
+Tasca **[P04](P04-Documentació-servidor-DNS)**
+
+Tasca **[P05](P05-Presentació-sistemes-emmagatzematge)**
+
+Tasca **[P06](P06-Vídeo-Fonaments-DNS)**
+
+Tasca **[P07](P07-Infografia-Sostenibilitat)**
+
+
 
 
