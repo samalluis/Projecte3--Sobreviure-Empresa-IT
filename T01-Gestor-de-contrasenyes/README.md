@@ -31,6 +31,6 @@ A més, afegiré captures de pantalla que guardaré dins una carpeta anomenada i
 
 ---
 
-**Entrada a** [Informe](Informe.md)
+📓**Entrada a** [Informe](Informe.md)
 
-**Torna a** [Home](..)
+🏚️**Torna a** [Home](..)
