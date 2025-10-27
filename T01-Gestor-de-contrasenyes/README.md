@@ -7,7 +7,7 @@ La meva tasca consisteix a avaluar diferents gestors de contrasenyes i crear la 
 
 ---
 
-## 🧩 Fase 1: Anàlisi i Justificació
+## Fase 1: Anàlisi i Justificació
 
 En aquesta primera fase redactaré un informe tècnic (informe.md) on:
 Explicaré per què les contrasenyes febles o reutilitzades són un risc per a la seguretat de l’empresa.
@@ -19,7 +19,7 @@ Analitzaré els avantatges i inconvenients de cada opció i recomanaré la que c
 
 ---
 
-## 🧰 Fase 2: Guia d’Ús Tècnica
+## Fase 2: Guia d’Ús Tècnica
 
 A la segona fase crearé una guia pràctica (guia.md) basada en l’eina que hagi triat a la Fase 1.
 Aquesta guia inclourà:
