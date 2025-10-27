@@ -69,7 +69,7 @@ Aquest projecte no és només un conjunt de pràctiques, sinó una immersió tot
 Perquè a EverPia, el lema és clar:
 “Si sobrevius a això... pots sobreviure a qualsevol empresa.”
 
-✨ Epíleg: l’oportunitat
+**Epíleg: l’oportunitat**
 Sí, és dur.
  Sí, tindreu moments en què voldreu llençar el teclat per la finestra.
 Però també descobrireu què significa treballar com a autèntics professionals del món IT: analitzar, decidir, coordinar i mantenir sistemes crítics.
