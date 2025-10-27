@@ -60,7 +60,7 @@ Per mitigar aquests riscos, els gestors de contrasenyes permeten generar i emmag
 
 ## 🧭 Recomanació Final
 
-Després de comparar ambdós models, la recomanació és adoptar **KeePassXC** com a gestor de contrasenyes per al **personal tècnic de l’empresa**.
+Després de comparar ambdós models, la recomanació és adoptar **KeePassXC** com a gestor de contrasenyes.
 
 ### 🔍 Justificació:
 
@@ -70,7 +70,6 @@ Després de comparar ambdós models, la recomanació és adoptar **KeePassXC** c
 - **Cost nul i manteniment baix:** No requereix subscripcions ni dependències externes.  
 - **Alta portabilitat:** El fitxer `.kdbx` pot emmagatzemar-se en dispositius xifrats, còpies de seguretat o sistemes compartits de manera segura.
 
-Per tant, **KeePassXC** és l’opció òptima per a un equip tècnic que prioritza la **seguretat, la privadesa i la independència tecnològica**, mentre que **Bitwarden** pot reservar-se com a eina complementària per a altres departaments amb necessitats de sincronització automàtica o gestió col·laborativa.
 
 ---
 
