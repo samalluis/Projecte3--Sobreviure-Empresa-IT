@@ -96,5 +96,5 @@ La contrasenya generada pot copiar-se al porta-retalls o inserir-se automàticam
 
 ▶️Torna al [Informe](Informe.md)
 
-🏚️Torna a la [Pagina principal](...)
+🏚️Torna a la [Pagina principal](..)
 
