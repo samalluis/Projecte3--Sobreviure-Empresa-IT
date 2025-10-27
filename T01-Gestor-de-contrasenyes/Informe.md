@@ -75,3 +75,5 @@ Després de comparar ambdós models, la recomanació és adoptar **KeePassXC** c
 
 ▶️Fes click aqui per anar a la secció de [GUIA](Guia.md)
 
+◀️Torna a [Enrera](README.md)
+
