@@ -101,19 +101,19 @@ Tasca **[T09](T09-ODS-i-el-sector-IT)**
 
 Tasca **[T10](T10-ASG-a-EverPia-informe-visual-per-a-inversors)**
 
-Tasca **[P01](P01-Kanban-del-projecte)**
+Producte **[P01](P01-Kanban-del-projecte)**
 
-Tasca **[P02](P02-Repositori-de-GitHub)**
+Producte **[P02](P02-Repositori-de-GitHub)**
 
-Tasca **[P03](P03-Rèplica-web)**
+Producte **[P03](P03-Rèplica-web)**
 
-Tasca **[P04](P04-Documentació-servidor-DNS)**
+Producte **[P04](P04-Documentació-servidor-DNS)**
 
-Tasca **[P05](P05-Presentació-sistemes-emmagatzematge)**
+Producte **[P05](P05-Presentació-sistemes-emmagatzematge)**
 
-Tasca **[P06](P06-Vídeo-Fonaments-DNS)**
+Producte **[P06](P06-Vídeo-Fonaments-DNS)**
 
-Tasca **[P07](P07-Infografia-Sostenibilitat)**
+Producte **[P07](P07-Infografia-Sostenibilitat)**
 
 
 
