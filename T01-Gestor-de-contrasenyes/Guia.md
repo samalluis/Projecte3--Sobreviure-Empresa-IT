@@ -92,3 +92,9 @@ La contrasenya generada pot copiar-se al porta-retalls o inserir-se automàticam
 - No comparteixis mai la contrasenya mestra ni el fitxer `.kdbx`.  
 - Combina l’ús de KeePassXC amb l’autenticació de doble factor als serveis més crítics.
 
+---
+
+▶️Torna al [Informe](Informe.md)
+
+🏚️Torna a la [Pagina principal](...)
+
