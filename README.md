@@ -79,7 +79,7 @@ Benvinguts a EverPia 2: “Sobreviure en una empresa IT” El foc ja està encè
 
 ---
 
-### ENLLAÇ A TASQUES
+### ENLLAÇ A TASQUES I PRODUCTES
 
 Tasca **[T01](T01-Gestor-de-contrasenyes)**
 
