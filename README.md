@@ -22,7 +22,7 @@ El vostre dia a dia?
 Apagar focs, resoldre incidències, respondre tickets, mantenir sistemes, documentar-ho tot (abans que algú formategi per error) i, si queda temps, aprendre a no perdre els nervis.
 És la vida real dins una empresa IT:  el caos ben documentat.
 
-### 🎯 Missió del projecte
+### Missió del projecte
 Aquest projecte és la segona temporada d’una sèrie que acaba d’arrencar.
  Si EverPia 1 era sobre construir, EverPia 2 és sobre sobreviure.
 La vostra missió és demostrar que sou capaços de:
