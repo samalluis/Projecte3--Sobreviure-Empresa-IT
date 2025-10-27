@@ -38,23 +38,27 @@ La vostra missió és demostrar que sou capaços de:
 
 - **I mantenir la calma mentre tot sembla fallar.**
 
----
 
-Perquè el coneixement és important, sí, però la serenitat és un servei premium.
-💡 Objectius formatius
-Consolidar coneixements avançats en sistemes, xarxes i serveis corporatius.
+- **Perquè el coneixement és important, sí, però la serenitat és un servei premium.**
 
 
-Aplicar tècniques reals de manteniment i optimització de servidors.
+- **Objectius formatius**
 
 
-Aprendre a resoldre problemes complexos sota pressió.
+- **Consolidar coneixements avançats en sistemes, xarxes i serveis corporatius.**
 
 
-Practicar la documentació tècnica professional amb GitHub i Markdown.
+- **Aplicar tècniques reals de manteniment i optimització de servidors.**
 
 
-Desenvolupar competències clau: treball en equip, responsabilitat, organització i autonomia.
+- **Aprendre a resoldre problemes complexos sota pressió.**
+
+
+- **Practicar la documentació tècnica professional amb GitHub i Markdown.**
+
+
+- **Desenvolupar competències clau: treball en equip, responsabilitat, organització i autonomia.**
+
 
 A EverPia 2 ja no hi ha professors: hi ha caps de projecte, companys de suport tècnic i clients impacients.
  Cada error és una oportunitat per aprendre.
