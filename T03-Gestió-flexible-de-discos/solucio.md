@@ -10,7 +10,7 @@ captures d'exemple de com ha de quedar:
 
 ![maquinaaa](img/maquina2.png)
 
-![maaquinaaa](img/unnamed.png)
+![maaquinaaa](img/maquina3.png)
 
 
 
