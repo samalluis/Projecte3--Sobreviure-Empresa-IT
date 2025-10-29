@@ -6,9 +6,9 @@ Per començar crearem un pool d'emmagatzematge inicial amb tres discos de 10 GB 
 
 captures d'exemple de com ha de quedar:
 
-<img src="img/maquina2.png" alt="Texto" width="400" height="600">
+<img src="img/maquina2.png" alt="Texto" width="500" height="400">
 
-<img src="img/maquina3.png" alt="Texto" width="400" height="600">
+<img src="img/maquina3.png" alt="Texto" width="500" height="400">
 
 ### Estudi de Configuracions: Demostrar i documentar la creació d'un Espai d'Emmagatzematge utilitzant:
 
