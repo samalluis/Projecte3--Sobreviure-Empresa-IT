@@ -94,8 +94,6 @@ Les dades continuen accessibles malgrat la fallada de dos discos. El sistema rec
 
 ## Conclusió
 
-Aquesta pràctica ha permès comprendre el funcionament dels **Espais d’emmagatzematge de Windows 11 (Storage Spaces)** i la seva importància per garantir la **resiliència de les dades** sense necessitat de maquinari RAID dedicat.
-
 Els resultats mostren que:
 - El **mirall doble** ofereix protecció davant una fallada individual.  
 - La **paritat** és més eficient en ús d’espai, tot i que més lenta en reconstrucció.  
