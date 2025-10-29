@@ -35,15 +35,15 @@ Requisits de la Implementació i Demostració:
 
 1. **Configuració inicial:** Creació d'un Storage Pool: Crear un pool d'emmagatzematge inicialment amb tres discos de 10 GB (simulats).
 
-2. Estudi de Configuracions: Demostrar i documentar la creació d'un Espai d'Emmagatzematge utilitzant:
+2. **Estudi de Configuracions:** Demostrar i documentar la creació d'un Espai d'Emmagatzematge utilitzant:
 
-   - Resiliència de Mirall (Mirroring): Usar dos dels discos. Comprovar que ofereix alta disponibilitat.
+   - **Resiliència de Mirall (Mirroring):** Usar dos dels discos. Comprovar que ofereix alta disponibilitat.
 
-   - Mirall triple: desfer l’espai anterior i crear un amb els tres discos que sigui mirall triple. Justificar quins avantatges té respecte el mirroring.
+   - **Mirall triple:** desfer l’espai anterior i crear un amb els tres discos que sigui mirall triple. Justificar quins avantatges té respecte el mirroring.
 
-   - Resiliència de Paritat (Parity): Explicant la seva eficiència d'espai en comparació amb el mirall. Afegir tant discos de 10 GB com siguin necessaris.
+   - **Resiliència de Paritat (Parity):** Explicant la seva eficiència d'espai en comparació amb el mirall. Afegir tant discos de 10 GB com siguin necessaris.
 
-3. Demostració de la Gestió: Mostrar com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, simulant la facilitat de manteniment.
+3. **Demostració de la Gestió:** Mostrar com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, simulant la facilitat de manteniment.
 Com treballareu i què lliurareu?
 
 El treball serà en grup. En primer lloc, us dividireu en dos equips, un d’ells haurà de resoldre la gestió en els equips Linux mitjançant LVM, mentre que el segon ho farà en els equips Windows usant la tecnologia anàloga Espais d’Emmagatzematge. Un cop ja us heu dividit, individualment preparareu el guió de la tasca a realitzar, cercant les comandes, consultant el enllaços de documentació, etc. Posteriorment, cada parella realitzarà la seva part de la demostració. Finalment, la totalitat del grup revisa la documentació generada i cada membre la puja al seu repositori.
