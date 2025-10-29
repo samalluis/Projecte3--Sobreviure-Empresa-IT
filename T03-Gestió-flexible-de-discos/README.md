@@ -17,33 +17,33 @@ L'objectiu principal és dissenyar i documentar dues solucions d'emmagatzematge 
 S'ha d'utilitzar la distribució Zorin OS (o una alternativa Linux compatible) per demostrar la utilitat del Logical Volume Manager (LVM).
 Requisits de la Implementació i Demostració:
 
-- **Configuració Inicial:** Crear un grup de volums (VG) i un volum lògic (LV) utilitzant inicialment un mínim de dos discs durs (simulats) de 10 GB de capacitat. Aquest volum haurà estar formatat i muntat automàticament al sistema mitjançant l’edició de l’arxiu /etc/fstab.
+1. **Configuració Inicial:** Crear un grup de volums (VG) i un volum lògic (LV) utilitzant inicialment un mínim de dos discs durs (simulats) de 10 GB de capacitat. Aquest volum haurà estar formatat i muntat automàticament al sistema mitjançant l’edició de l’arxiu /etc/fstab.
 
-- **Alta Disponibilitat:** Implementar la configuració d’un mirall (lvm_mirror) que protegeixi la informació davant la fallada d'un disc.
+2. **Alta Disponibilitat:** Implementar la configuració d’un mirall (lvm_mirror) que protegeixi la informació davant la fallada d'un disc.
 
-- **Instantànies (snapshots):**  Crear i afegir dos discos de 10 GB al grup de volums.
+3. **Instantànies (snapshots):**  Crear i afegir dos discos de 10 GB al grup de volums.
 Crear un volum (lvm_dades) amb el primer disc afegit, formatar-lo i muntar-lo. 
 A continuació afegir arxius al volum (poden ser imatges d’Internet). 
 Usar el segon disc afegit per crear un snapshot (lv_snapshot) i documentar com es pot restaurar aquest snapshot, si per exemple, la informació del volum original es danyés.
 
-- **Escalabilitat:** Demostrar el procés d'ampliació. Usar l’espai que quedi lliure dins el grup de volums per ampliar el volum lv_dades.
+4. **Escalabilitat:** Demostrar el procés d'ampliació. Usar l’espai que quedi lliure dins el grup de volums per ampliar el volum lv_dades.
 
 ## 2. Part Windows: Espais d'Emmagatzematge (Storage Spaces)
    
 S'ha d'utilitzar Windows 11 (per demostrar les configuracions possibles mitjançant els Espais d'Emmagatzematge (Storage Spaces).
 Requisits de la Implementació i Demostració:
 
-- Configuració inicial: Creació d'un Storage Pool: Crear un pool d'emmagatzematge inicialment amb tres discos de 10 GB (simulats).
+1. **Configuració inicial:** Creació d'un Storage Pool: Crear un pool d'emmagatzematge inicialment amb tres discos de 10 GB (simulats).
 
-- Estudi de Configuracions: Demostrar i documentar la creació d'un Espai d'Emmagatzematge utilitzant:
+2. Estudi de Configuracions: Demostrar i documentar la creació d'un Espai d'Emmagatzematge utilitzant:
 
-Resiliència de Mirall (Mirroring): Usar dos dels discos. Comprovar que ofereix alta disponibilitat.
+   - Resiliència de Mirall (Mirroring): Usar dos dels discos. Comprovar que ofereix alta disponibilitat.
 
-Mirall triple: desfer l’espai anterior i crear un amb els tres discos que sigui mirall triple. Justificar quins avantatges té respecte el mirroring.
+   - Mirall triple: desfer l’espai anterior i crear un amb els tres discos que sigui mirall triple. Justificar quins avantatges té respecte el mirroring.
 
-Resiliència de Paritat (Parity): Explicant la seva eficiència d'espai en comparació amb el mirall. Afegir tant discos de 10 GB com siguin necessaris.
+   - Resiliència de Paritat (Parity): Explicant la seva eficiència d'espai en comparació amb el mirall. Afegir tant discos de 10 GB com siguin necessaris.
 
-- Demostració de la Gestió: Mostrar com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, simulant la facilitat de manteniment.
+3. Demostració de la Gestió: Mostrar com es visualitza l'estat dels discos i del pool des de la consola de gestió de Windows, simulant la facilitat de manteniment.
 Com treballareu i què lliurareu?
 
 El treball serà en grup. En primer lloc, us dividireu en dos equips, un d’ells haurà de resoldre la gestió en els equips Linux mitjançant LVM, mentre que el segon ho farà en els equips Windows usant la tecnologia anàloga Espais d’Emmagatzematge. Un cop ja us heu dividit, individualment preparareu el guió de la tasca a realitzar, cercant les comandes, consultant el enllaços de documentació, etc. Posteriorment, cada parella realitzarà la seva part de la demostració. Finalment, la totalitat del grup revisa la documentació generada i cada membre la puja al seu repositori.
