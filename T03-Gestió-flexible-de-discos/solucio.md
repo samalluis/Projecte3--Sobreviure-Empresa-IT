@@ -1,8 +1,6 @@
 # 2. Part Windows: Espais d'Emmagatzematge (Storage Spaces)
 
-## Configuració inicial: 
-
-### Creació d'un Storage Pool: 
+### Configuració inicial: Creació d'un Storage Pool: 
 
 Per començar crearem un pool d'emmagatzematge inicial amb tres discos de 10 GB cada un, per poder fer aixo entrarem al emmagetzematge de la nostra maquina i a l'apartat Controlador Sata crearem un de nou [capture] , aquest l'hi ficarem un nom com disc01 i seguidament l'hi assignarem els 10 GB d'emmagetzematge, aquest process el repetirem 2 cops mes.
 
