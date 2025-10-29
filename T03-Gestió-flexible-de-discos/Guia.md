@@ -5,7 +5,7 @@
 ## 2.1 Creació del Pool d’emmagatzematge
 
 ### **Objectiu**
-Crear un *Storage Pool* utilitzant tres discos virtuals de 10 GB com a base per a la resta de configuracions.
+Crear un *Storage Pool* utilitzant tres discos virtuals de 10 GB de manera inicial com a base per a la resta de configuracions.
 
 ### **Procediment**
 1. Obrir **Tauler de control → Sistema i seguretat → Espais d’emmagatzematge**.  
