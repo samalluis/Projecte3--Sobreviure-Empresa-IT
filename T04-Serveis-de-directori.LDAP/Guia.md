@@ -3,15 +3,15 @@ L'objecte del present Plec és la instal·lació, configuració i validació d'u
 
 ## 2. Requeriments d'Infraestructura Inicial
 
-**R.INF.01**
+**R.INF.01** -
 Configuració de la màquina Server (Server Hostname).
 server.innovatechXX.test
 
-**R.INF.02**
+**R.INF.02** -
 Interfície de Xarxa Pública.
 NAT (Per accés a Internet i descàrrega de paquets).
 
-**R.INF.03**
+**R.INF.03** -
 Interfície de Xarxa Privada.
 Host-Only (Per a comunicació privada amb el Client virtual  i la màquina física).
 
@@ -20,75 +20,75 @@ Host-Only (Per a comunicació privada amb el Client virtual  i la màquina físi
 La Consultora EverPia ha de complir estrictament amb les següents tasques d'instal·lació i configuració:
 ### 3.1. Instal·lació i Configuració Base d'OpenLDAP
    
-**T.LDAP.01**
+**T.LDAP.01** -
 Instal·lació del servei OpenLDAP.
 S'ha de mostrar el resultat de la comanda slapcat per validar la instal·lació base.
 
-**T.LDAP.02**
+**T.LDAP.02** -
 Configuració de la base de dades.
 Nom del Domini: innovatechXX.test
 
-**T.LDAP.03**
+**T.LDAP.03** -
 Configuració de la contrasenya d'administrador.
 Contrasenya: p@ssw0rd
 
-**T.LDAP.04**
+**T.LDAP.04** -
 Creació d'Unitats Organitzatives (OU) inicials.
 S'han de crear dues OUs: users i groups mitjançant un fitxer .ldif.
 
-**T.LDAP.05**
+**T.LDAP.05** -
 Validació de les Unitats Organitzatives.
 Realitzar una consulta amb ldapsearch que mostri totes les OUs creades al directori.
 
 ## 3.2. Gestió i Administració (LAM)
 
-**T.LAM.01**
+**T.LAM.01** -
 Instal·lació del Gestor d'Usuaris LDAP (LAM).
 S'ha de documentar la comanda d'instal·lació.
 
-**T.LAM.02**
+**T.LAM.02** -
 Accés Remot i Configuració.
 Connectar a LAM des de la màquina física utilitzant l'adreça IP de la interfície Host-Only.
 
-**T.LAM.03**
+**T.LAM.03** -
 Configuració per defecte.
 Establir la configuració predeterminada perquè els nous usuaris s'ubiquin a l'OU users i els nous grups a l'OU groups.
 
-**T.LAM.04**
+**T.LAM.04** -
 Creació de Grups.
 Crear dos grups de seguretat al directori: tech i manager.
 
-**T.LAM.05**
+**T.LAM.05** -
 Creació d'Usuaris de Prova.
 Crear un usuari per a cada grup: tech01 (membre de tech) i manager01 (membre de manager).
 
 ## 4. Integració de Client (Client Ubuntu Desktop)
 
-**T.CLI.01**
+**T.CLI.01** -
 Instal·lació del Client.
 Instal·lar un client Ubuntu Desktop i configurar la interfície de xarxa per comunicar-se amb el servidor (Host-Only).
 
-**T.CLI.02**
+**T.CLI.02** -
 Resolució de Noms.
 Configurar l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatechXX.test. S'ha de proporcionar una instantània (snapshot) de la màquina client un cop fet el canvi.
 
-**T.CLI.03**
+**T.CLI.03** -
 Validació de la Connectivitat LDAP.
 Comprovar la connectivitat amb el servidor fent una consulta ldapsearch des del client.
 
-**T.CLI.04**
+**T.CLI.04** -
 Mòduls d'Autenticació.
 Instal·lar els mòduls necessaris per permetre l'autenticació amb LDAP.
 
-**T.CLI.05**
+**T.CLI.05** -
 Configuració del Client.
 Modificar els arxius de configuració del client necessaris. S'han de mostrar clarament els canvis realitzats en el codi dels arxius.
 
-**T.CLI.06**
+**T.CLI.06** -
 Comprovació del Sistema.
 Reiniciar els serveis i verificar amb la comanda getent passwd que els usuaris del directori són visibles localment.
 
-**T.CLI.07**
+**T.CLI.07** -
 Prova d'Accés Final.
 Reiniciar el client i iniciar sessió amb l'usuari tech01. Es requereix una captura de pantalla que demostri l'accés correcte i la creació automàtica de la carpeta personal de l'usuari.
 
