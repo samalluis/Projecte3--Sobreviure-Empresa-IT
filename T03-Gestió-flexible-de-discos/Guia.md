@@ -99,7 +99,7 @@ Els resultats mostren que:
 - La **paritat** és més eficient en ús d’espai, tot i que més lenta en reconstrucció.  
 - El **mirall triple** proporciona el màxim nivell de seguretat davant múltiples fallades.
 
-En conclusió, **Storage Spaces** és una eina molt útil per a la gestió d’emmagatzematge amb redundància dins d’un entorn Windows professional o educatiu.
+En conclusió, **Storage Spaces** és una eina molt útil per a la gestió d’emmagatzematge amb redundància dins d’un entorn Windows professional.
 
 ---
 
