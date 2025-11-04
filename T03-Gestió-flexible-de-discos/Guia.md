@@ -24,6 +24,8 @@ Crear un *Storage Pool* utilitzant tres discos virtuals de 10 GB de manera inici
    
 6. Creem i l'escollim. I repetim aquest proces dos cops mes per començar a fer els grups
 
+<img src="img/pool.png" width="500">
+
 ### **Captura de pantalla resultat final**
 
 <img src="img/maquina3.png" width="500">
