@@ -7,12 +7,25 @@
 ### **Objectiu**
 Crear un *Storage Pool* utilitzant tres discos virtuals de 10 GB de manera inicial com a base per a la resta de configuracions.
 
-### **Procediment**
-1. Obrir **Tauler de control → Sistema i seguretat → Espais d’emmagatzematge**.  
-2. Seleccionar **“Crea un grup nou i un espai d’emmagatzematge nou”**.  
-3. Seleccionar **tres discos disponibles** de 10 GB cadascun.  
-4. Assignar el nom del grup: `Pool_Emmagatzematge`.  
-5. Confirmar la creació i verificar que apareix correctament amb els discos assignats.
+### **Procediment Creació Maquina**
+1. Crear la maquina amb **4 GB de RAM** i **2 processadors**
+2. Anem a l'apartat **d'Emmagatzematge** i a l'opcio de **Controlador: SATA** seleccionem l'opcio de **Afegeix disc dur**
+
+<img src="img/controladorSATA.png" width="500">
+   
+4. Canviem el nom a disc01 o similar i assignem **10 GB d'espai**
+5. Creem i l'escollim. I repetim aquest proces dos cops mes per començar a fer els grups
+
+### **Captures de pantalla**
+
+<img src="img/maquina3.png" width="500">
+
+### **Procediment Creació del Grup**
+1. Entrem a la maquina, obrim **Tauler de control → Sistema i seguretat → Espais d’emmagatzematge**.   
+2. Seleccionem **Crea un grup nou i un espai d’emmagatzematge nou**.
+3. Seleccionar els discos necesaris de **10 GB cadascun**.
+4. Assignar un nom al grup.
+5. I confirmem la creacio del grup.
 
 ### **Captures de pantalla**
 _Afegir aquí les captures de la creació del pool i la vista dels discos._
@@ -28,7 +41,7 @@ El pool s’ha creat correctament amb tres discos i apareix disponible per crear
 Configurar un espai amb **mirall doble** per garantir la disponibilitat de les dades en cas de fallada d’un disc.
 
 ### **Procediment**
-1. Dins del `Pool_Emmagatzematge`, fer clic a **“Crea un espai d’emmagatzematge nou”**.  
+1. Dins del grup que hem creat anteriorment, fer clic a **“Crea un espai d’emmagatzematge nou”**.  
 2. Configurar:
    - Tipus de resiliència: `Mirall bidireccional (Two-way mirror)`  
    - Mida: `10 GB`  
@@ -42,7 +55,7 @@ Configurar un espai amb **mirall doble** per garantir la disponibilitat de les d
 _Afegir aquí les captures de la creació, la fallada simulada i la reconstrucció._
 
 ### **Verificació**
-Els fitxers romanen accessibles després de la fallada i la reconstrucció es realitza automàticament.
+Els fitxers tornan a ser accessibles després de la fallada i la reconstrucció es realitza automàticament.
 
 ---
 
