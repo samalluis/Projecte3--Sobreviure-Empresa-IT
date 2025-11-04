@@ -30,7 +30,7 @@ Crear un *Storage Pool* utilitzant tres discos virtuals de 10 GB de manera inici
 
 <img src="img/maquina3.png" width="500">
 
-### **Procediment Creació del Grup**
+### **Procediment Creació d'un Grup**
 1. Entrem a la maquina, obrim **Tauler de control → Sistema i seguretat → Espais d’emmagatzematge**.   
 2. Seleccionem **Crea un grup nou i un espai d’emmagatzematge nou**.
 3. Seleccionar els discos necesaris de **10 GB cadascun**.
