@@ -7,7 +7,13 @@ També s’han efectuat proves de resolució local per comprovar el funcionament
 
 L’equip utilitzat és un Zorin OS configurat amb dues interfícies de xarxa:
 - Interfície 1 (NAT) per accés a Internet.  
-- Interfície 2 (Pont) amb IP configurada segons indicacions del responsable del laboratori.
+- Interfície 2 (Pont) amb IP 192.168.7.1/24.
+
+![imatge](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T06-Fonaments-del-servei-DNS/img/Captura%20de%20pantalla%202025-11-04%20165408.png)
+
+![imat](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T06-Fonaments-del-servei-DNS/img/Captura%20de%20pantalla%202025-11-04%20165418.png)
+
+![ima](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T06-Fonaments-del-servei-DNS/img/Captura%20de%20pantalla%202025-11-04%20165427.png)
 
 ---
 
