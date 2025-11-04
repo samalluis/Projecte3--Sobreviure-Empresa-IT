@@ -147,14 +147,11 @@ nslookup
      ```bash
      sudo nano /etc/hosts
      ```
-   - Exemple Windows:  
-     ```text
-     192.168.1.10   servidorlocal.test
-     ```
+
 
 2. Comprovació amb `ping` o `nslookup`:
    ```bash
-   ping servidorlocal.test
+   ping client-VirtualBox
    ```
 
 **Captura de pantalla:**
