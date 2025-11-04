@@ -27,9 +27,8 @@ dig xtec.cat A
 ```
 
 **Captura de pantalla:**
-```
-(Insereix aquí la captura de la terminal)
-```
+
+![hola](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T06-Fonaments-del-servei-DNS/img/Captura%20de%20pantalla%202025-11-04%20165527.png)
 
 **Anàlisi:**
 - IP de resposta:  
@@ -47,9 +46,8 @@ dig tecnocampus.cat NS
 ```
 
 **Captura de pantalla:**
-```
-(Insereix aquí la captura de la terminal)
-```
+
+![amsda](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T06-Fonaments-del-servei-DNS/img/Captura%20de%20pantalla%202025-11-04%20165613.png)
 
 **Anàlisi:**
 - Servidors de noms autoritatius:  
@@ -65,9 +63,8 @@ dig escolapia.cat SOA
 ```
 
 **Captura de pantalla:**
-```
-(Insereix aquí la captura de la terminal)
-```
+
+![asdads](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T06-Fonaments-del-servei-DNS/img/Captura%20de%20pantalla%202025-11-04%20165644.png)
 
 **Anàlisi:**
 - Correu de l’administrador:  
@@ -84,9 +81,8 @@ dig -x 147.83.2.135
 ```
 
 **Captura de pantalla:**
-```
-(Insereix aquí la captura de la terminal)
-```
+
+![nono](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T06-Fonaments-del-servei-DNS/img/Captura%20de%20pantalla%202025-11-04%20165720.png)
 
 **Anàlisi:**
 - Nom associat a la IP:  
@@ -107,9 +103,8 @@ nslookup
 ```
 
 **Captura de pantalla:**
-```
-(Insereix aquí la captura de la terminal)
-```
+
+![sisi](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T06-Fonaments-del-servei-DNS/img/Captura%20de%20pantalla%202025-11-04%20174203.png)
 
 **Anàlisi:**
 - Resposta no autoritativa: Explica què significa que la resposta no sigui autoritativa.  
@@ -129,9 +124,8 @@ nslookup
 ```
 
 **Captura de pantalla:**
-```
-(Insereix aquí la captura de la terminal)
-```
+
+![ioioio](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T06-Fonaments-del-servei-DNS/img/Captura%20de%20pantalla%202025-11-04%20174149.png)
 
 **Anàlisi:**
 - Resposta obtinguda:  
@@ -164,9 +158,8 @@ nslookup
    ```
 
 **Captura de pantalla:**
-```
-(Insereix aquí la captura de la comprovació)
-```
+
+![adada](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T06-Fonaments-del-servei-DNS/img/Captura%20de%20pantalla%202025-11-04%20174436.png)
 
 **Anàlisi:**
 - Nom i IP resolts:  
