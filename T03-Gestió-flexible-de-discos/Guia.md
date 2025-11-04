@@ -8,21 +8,21 @@
 Crear un *Storage Pool* utilitzant tres discos virtuals de 10 GB de manera inicial com a base per a la resta de configuracions.
 
 ### **Procediment Creació Maquina**
-1. Crear la maquina amb **4 GB de RAM** i **2 processadors**
+1. Crear la maquina amb **4 GB de RAM** i **2 processadors**.
 
 <img src="img/hardware.png" width="500">
 
-3. Anem a l'apartat **d'Emmagatzematge** i a l'opcio de **Controlador: SATA** seleccionem l'opcio de **Afegeix disc dur** hi ha **Crea**
+3. Anem a l'apartat **d'Emmagatzematge** i a l'opcio de **Controlador: SATA** seleccionem l'opcio de **Afegeix disc dur** hi ha **Crea**.
 
 <img src="img/controladorSATA.png" width="500">
 
 <img src="img/creadiscdur.png" width="500">
  
-4. Canviem el nom a disc01 o similar i assignem **10 GB d'espai**
+4. Canviem el nom a disc01 o similar i assignem **10 GB d'espai**.
 
 <img src="img/espaidiscos.png" width="500">
    
-6. Creem i l'escollim. I repetim aquest proces dos cops mes per començar a fer els grups
+6. Creem i l'escollim. I repetim aquest proces dos cops mes per tenir el pool inicial.
 
 <img src="img/pool.png" width="500">
 
