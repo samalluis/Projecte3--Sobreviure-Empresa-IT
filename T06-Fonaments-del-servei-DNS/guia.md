@@ -172,9 +172,3 @@ Resum de les principals observacions:
 
 ---
 
-## Annexos
-
-- Captures de pantalla completes.  
-- Fitxers de configuració (si escau).  
-- Observacions addicionals del professor o tècnic.
-
