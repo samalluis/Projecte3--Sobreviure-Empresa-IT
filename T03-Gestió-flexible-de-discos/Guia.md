@@ -60,8 +60,8 @@ Configurar un espai amb **mirall doble** per garantir la disponibilitat de les d
 
 ### **Procediment**
 1. Dins del grup que hem creat anteriorment, fer clic a **“Crea un espai d’emmagatzematge nou”**.  
-2. Configurar:
-   - Tipus de resiliència: `Mirall bidireccional (Two-way mirror)`  
+2. Configurar de la següent manera:
+   - Tipus de resiliència: `Mirall doble (Reflejo doble)`  
    - Mida: `10 GB`  
    - Lletra d’unitat: `E:`  
 3. Copiar alguns fitxers de prova a la unitat `E:`.  
