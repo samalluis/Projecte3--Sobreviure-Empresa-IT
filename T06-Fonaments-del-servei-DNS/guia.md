@@ -158,9 +158,7 @@ nslookup
 
 ![adada](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T06-Fonaments-del-servei-DNS/img/Captura%20de%20pantalla%202025-11-04%20174436.png)
 
-**Anàlisi:**
-- Nom i IP resolts:  
-- Comentari: Explica com el sistema prioritza la resolució local abans del DNS públic.
+
 
 ---
 
