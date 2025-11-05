@@ -138,7 +138,7 @@ nslookup
 
 ### Proves de resolució local
 
-**Objectiu:** Verificar que el sistema resol correctament noms definits al fitxer de configuració local (`/etc/hosts` o `C:\Windows\System32\drivers\etc\hosts`).
+**Objectiu:** Verificar que el sistema resol correctament noms definits al fitxer de configuració local 
 
 **Passos realitzats:**
 
