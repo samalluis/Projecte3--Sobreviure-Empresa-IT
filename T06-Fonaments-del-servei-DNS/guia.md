@@ -31,9 +31,9 @@ dig xtec.cat A
 ![hola](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T06-Fonaments-del-servei-DNS/img/Captura%20de%20pantalla%202025-11-04%20165527.png)
 
 **Anàlisi:**
-- IP de resposta:  
-- Valor TTL:  
-- Servidor que ha respost:  
+- IP de resposta:  83.247.151.214
+- Valor TTL:  33 msec
+- Servidor que ha respost:  127.0.0.53
 - Comentari: Explica breument què indica el registre A i per a què serveix.
 
 ---
