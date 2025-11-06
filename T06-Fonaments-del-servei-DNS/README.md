@@ -32,4 +32,12 @@ dig xtec.cat A
 dig tecnocampus.cat NS
 dig escolapia.cat SOA
 dig -x 147.83.2.135
+```
 
+---
+
+Click aqui per anar al [VIDEO](Video.md)
+
+Click aqui per anar a la [GUIA](guia.md)
+
+Click aqui per tornar al [MENU PRINCIPAL](..)
