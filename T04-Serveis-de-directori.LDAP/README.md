@@ -46,7 +46,7 @@ Aquest document està disponible en el **plec de condicions tècniques** (també
 
 Click aqui per anar a [REQUERIMENTS D'INFRASTRUCTURA](Requeriments-d'Infraestructura-Inicial.md)
 
-Click aqui per anar a [TASQUES D'IMPLEMENTACIO I CONFIGURACIO DEL SERVIDOR LDAP](Tasques-d'Implementació-i-Configuració-LDAP.md)
+Click aqui per anar a [TASQUES D'IMPLEMENTACIO I CONFIGURACIO DEL SERVIDOR LDAP](Tasques-d'Implementació-i-Configuració-del-Servidor-LDAP.md)
 
 Click aqui per anar a [INTEGRACIÓ DE CLIENT](Integració-de-Client.md)
 
