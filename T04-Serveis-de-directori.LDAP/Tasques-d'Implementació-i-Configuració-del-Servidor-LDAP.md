@@ -48,10 +48,12 @@ Crear un usuari per a cada grup: tech01 (membre de tech) i manager01 (membre de 
 ---
 
 
-Click aqui per anar a [REQUERIMENTS D'INFRASTRUCTURA](Requeriments-d'Infrastructura-Inicial.md)
+Click aqui per anar a [REQUERIMENTS D'INFRASTRUCTURA](Requeriments-d'Infraestructura-Inicial.md)
 
 Click aqui per anar a [INTEGRACIÓ DE CLIENT](Integració-de-Client.md)
 
 Click aqui per anar a [HOME](...)
 
 Click aqui per anar a [README](README.md)
+
+
