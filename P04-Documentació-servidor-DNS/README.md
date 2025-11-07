@@ -1,6 +1,6 @@
 # P04: Documentació servidor DNS
 
-## 🧭 Breu descripció
+## Breu descripció
 
 Molt benvinguts a la vostra nova tasca, consultors!
 
@@ -11,7 +11,7 @@ D’aquesta manera, quan es vulgui replicar la configuració, **no caldrà comen
 
 ---
 
-## ⚙️ Fase 1: Preparació de la connectivitat i extracció dels arxius
+## Fase 1: Preparació de la connectivitat i extracció dels arxius
 
 ### Pas 1.1: Configuració de la interfície Host-Only
 
