@@ -172,3 +172,11 @@ Resum de les principals observacions:
 
 ---
 
+Click aqui per anar a [VIDEO](Video.md)
+
+Click aqui per anar a [README](README.md)
+
+Click aqui per anar a [HOME](..)
+
+
+
