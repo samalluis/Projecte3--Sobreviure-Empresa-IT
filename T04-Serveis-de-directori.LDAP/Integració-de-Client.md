@@ -31,7 +31,7 @@ Reiniciar el client i iniciar sessió amb l'usuari tech01. Es requereix una capt
 ---
 
 
-Click aqui per anar a [REQUERIMENTS D'INFRASTRUCTURA](Requeriments-d'Infrastructura-Inicial.md)
+Click aqui per anar a [REQUERIMENTS D'INFRASTRUCTURA](Requeriments-d'Infraestructura-Inicial.md)
 
 Click aqui per anar a [TASQUES D'IMPLEMENTACIO I CONFIGURACIO DEL SERVIDOR LDAP](Tasques-d'Implementació-i-Configuració-LDAP.md)
 
