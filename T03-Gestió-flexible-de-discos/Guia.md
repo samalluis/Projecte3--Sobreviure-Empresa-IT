@@ -134,6 +134,11 @@ En conclusió, **Storage Spaces** és una eina molt útil per a la gestió d’e
 
 ---
 
+Click aqui per anar a [README](README.md)
+
+Click aqui per anar a [HOME](..)
+
+
 
 
 
