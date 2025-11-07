@@ -44,7 +44,9 @@ Aquest document està disponible en el **plec de condicions tècniques** (també
 
 ---
 
+Click aqui per anar a [REQUERIMENTS D'INFRASTRUCTURA](Requeriments-d'Infrastructura-Inicial.md)
 
+Click aqui per anar a [
 
 
 
