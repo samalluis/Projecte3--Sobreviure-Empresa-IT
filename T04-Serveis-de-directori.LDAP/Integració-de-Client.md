@@ -27,3 +27,14 @@ Reiniciar els serveis i verificar amb la comanda getent passwd que els usuaris d
 **T.CLI.07** -
 Prova d'Accés Final.
 Reiniciar el client i iniciar sessió amb l'usuari tech01. Es requereix una captura de pantalla que demostri l'accés correcte i la creació automàtica de la carpeta personal de l'usuari.
+
+---
+
+
+Click aqui per anar a [REQUERIMENTS D'INFRASTRUCTURA](Requeriments-d'Infrastructura-Inicial.md)
+
+Click aqui per anar a [TASQUES D'IMPLEMENTACIO I CONFIGURACIO DEL SERVIDOR LDAP](Tasques-d'Implementació-i-Configuració-LDAP.md)
+
+Click aqui per anar a [HOME](...)
+
+Click aqui per anar a [README](README.md)
