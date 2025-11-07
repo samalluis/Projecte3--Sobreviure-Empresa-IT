@@ -56,5 +56,12 @@ Espais d’emmagatzematge (Windows)
 
 ---
 
+Click aqui per anar a [GUIA](Guia.md)
+
+Click aqui per anar a [HOME](..)
+
+
+
+
 
 
