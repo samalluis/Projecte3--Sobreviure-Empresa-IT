@@ -8,3 +8,13 @@ Interfície de Xarxa Pública. NAT (Per accés a Internet i descàrrega de paque
 
 **R.INF.03** -
 Interfície de Xarxa Privada. Host-Only (Per a comunicació privada amb el Client virtual  i la màquina física).
+
+---
+
+Click aqui per anar a [TASQUES D'IMPLEMENTACIO I CONFIGURACIO DEL SERVIDOR LDAP](Tasques-d'Implementació-i-Configuració-LDAP.md)
+
+Click aqui per anar a [INTEGRACIÓ DE CLIENT](Integració-de-Client.md)
+
+Click aqui per anar a [HOME](...)
+
+Click aqui per anar a [README](README.md)
