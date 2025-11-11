@@ -71,9 +71,15 @@ Configurar un espai amb **mirall doble** per garantir la disponibilitat de les d
 
 <img src="img/fitxersprova.png" width="500">
 
-6. Deshabilitar un dels discos del pool per **simular una fallada**.  
-7. Verificar que els fitxers continuen accessibles.  
-8. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**.
+6. Deshabilitar un dels discos del pool per **simular una fallada**.
+
+<img src="img/elimdisco.png" width="500">
+
+<img src="img/compresistenciaespejo.png" width="500">
+
+
+8. Verificar que els fitxers continuen accessibles.  
+9. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**.
 
 ### **Captures de pantalla**
 _Afegir aquí les captures de la creació, la fallada simulada i la reconstrucció._
