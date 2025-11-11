@@ -59,15 +59,18 @@ Apendre a com crear un grup d'emmagatzematge
 Configurar un espai amb **mirall doble** per garantir la disponibilitat de les dades en cas de fallada d’un disc.
 
 ### **Procediment**
-1. Dins del grup que hem creat anteriorment, fer clic a **“Crea un espai d’emmagatzematge nou”**.  
-2. Configurar de la següent manera:
+1. Dins del grup que hem creat anteriorment amb dos discos, fer clic a **“Crea un espai d’emmagatzematge nou”**.
+
+<img src="img/creargrup.png" width="500">
+
+3. Configurar de la següent manera:
    - Tipus de resiliència: `Mirall doble (Reflejo doble)`  
    - Mida: `10 GB`  
    - Lletra d’unitat: `E:`  
-3. Copiar alguns fitxers de prova a la unitat `E:`.  
-4. Deshabilitar un dels discos del pool per **simular una fallada**.  
-5. Verificar que els fitxers continuen accessibles.  
-6. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**.
+4. Copiar alguns fitxers de prova a la unitat `E:`.  
+5. Deshabilitar un dels discos del pool per **simular una fallada**.  
+6. Verificar que els fitxers continuen accessibles.  
+7. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**.
 
 ### **Captures de pantalla**
 _Afegir aquí les captures de la creació, la fallada simulada i la reconstrucció._
