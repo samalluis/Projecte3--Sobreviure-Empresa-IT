@@ -83,7 +83,7 @@ Configurar un espai amb **mirall doble** per garantir la disponibilitat de les d
 
 8. Verificar que els fitxers continuen accessibles.
 
-<img src="img/compresistenciaespejo.png" width="500">
+<img src="img/comespejo.png" width="500">
 
 10. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**.
 
