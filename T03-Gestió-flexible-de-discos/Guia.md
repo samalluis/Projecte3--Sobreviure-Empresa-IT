@@ -66,7 +66,10 @@ Configurar un espai amb **mirall doble** per garantir la disponibilitat de les d
 3. Configurar de la següent manera:
    - Tipus de resiliència: `Mirall doble (Reflejo doble)`  
    - Mida: `10 GB`  
-   - Lletra d’unitat: `E:`  
+   - Lletra d’unitat: `E:`
+
+<img src="img/confespejo.png" width="500">
+
 4. Copiar alguns fitxers de prova a la unitat `E:`.
 
 <img src="img/fitxersprova.png" width="500">
@@ -78,8 +81,14 @@ Configurar un espai amb **mirall doble** per garantir la disponibilitat de les d
 <img src="img/compresistenciaespejo.png" width="500">
 
 
-8. Verificar que els fitxers continuen accessibles.  
-9. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**.
+8. Verificar que els fitxers continuen accessibles.
+
+<img src="img/compresistenciaespejo.png" width="500">
+
+10. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**.
+
+<img src="img/afegirdisc.png" width="500">
+
 
 ### **Captures de pantalla**
 _Afegir aquí les captures de la creació, la fallada simulada i la reconstrucció._
