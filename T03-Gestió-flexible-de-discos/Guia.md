@@ -61,7 +61,7 @@ Configurar un espai amb **mirall doble** per garantir la disponibilitat de les d
 ### **Procediment**
 1. Dins del grup que hem creat anteriorment amb dos discos, fer clic a **“Crea un espai d’emmagatzematge nou”**.
 
-<img src="img/creargrup.png" width="500">
+<img src="img/crearnougrup.png" width="500">
 
 3. Configurar de la següent manera:
    - Tipus de resiliència: `Mirall doble (Reflejo doble)`  
