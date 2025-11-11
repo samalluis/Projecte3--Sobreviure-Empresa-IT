@@ -4,7 +4,7 @@
 Configuració de la màquina Server (Server Hostname). server.innovatechXX.test 
 
 
-<img src="sistemamaquina.png" width="500">
+<img src="img/sistemamaquina.png" width="500">
 
 
 **R.INF.02** -
