@@ -20,7 +20,6 @@ sudo apt install && sudo apt upgrade -y
 
 - Hostname:
 
-Comanda: 
 ```
 sudo nano /etc/hosts
 ```
@@ -29,7 +28,7 @@ sudo nano /etc/hosts
 
 <img src="img/compinnovatech.png" width="500">
 
-Comanda per si necesitas canviar en nom del server: 
+Comanda per si necesitas canviar el nom del server: 
 ```
 sudo hostnamectl set-hostname nom
 ```
@@ -40,7 +39,7 @@ Interfície de Xarxa Pública. NAT (Per accés a Internet i descàrrega de paque
 **R.INF.03** -
 Interfície de Xarxa Privada. Host-Only (Per a comunicació privada amb el Client virtual  i la màquina física).
 
-comanda:
+comandes:
 ```
 sudo nano /etc/netplan/50-cloud-init.yaml
 ```
@@ -55,10 +54,6 @@ sudo netplan apply
 <img src="img/ping.png" width="500">
 
 <img src="img/ipa.png" width="500">
-
-
-
-
 
 ---
 
