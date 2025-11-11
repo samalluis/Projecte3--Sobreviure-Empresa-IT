@@ -90,8 +90,6 @@ Configurar un espai amb **mirall doble** per garantir la disponibilitat de les d
 <img src="img/afegirdisc.png" width="500">
 
 
-### **Captures de pantalla**
-_Afegir aquí les captures de la creació, la fallada simulada i la reconstrucció._
 
 ### **Verificació**
 Els fitxers tornan a ser accessibles després de la fallada i la reconstrucció es realitza automàticament.
@@ -127,10 +125,15 @@ L’espai de paritat permet l’accés a les dades durant la fallada i es recons
 Configurar un espai amb **mirall triple** per protegir les dades davant la fallada simultània de dos discos.
 
 ### **Procediment**
-1. Crear un nou espai dins del pool:  
+1. Creem un nou grup en el qual seleccionarem 5 discos (afegim dos mes si es necesari) i la configurarem de la seguent manera:  
    - Tipus: `Mirall de tres vies (Three-way mirror)`  
    - Mida: `10 GB`  
-   - Lletra d’unitat: `G:`  
+   - Lletra d’unitat: `G:`
+
+<img src="img/discostriple.png" width="500">
+
+<img src="img/conftriple.png" width="500">
+
 2. Copiar fitxers de prova a la unitat `G:`.  
 3. Deshabilitar dos discos per simular una fallada múltiple.  
 4. Verificar que els fitxers continuen accessibles.  
