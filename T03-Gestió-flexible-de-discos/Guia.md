@@ -67,10 +67,13 @@ Configurar un espai amb **mirall doble** per garantir la disponibilitat de les d
    - Tipus de resiliència: `Mirall doble (Reflejo doble)`  
    - Mida: `10 GB`  
    - Lletra d’unitat: `E:`  
-4. Copiar alguns fitxers de prova a la unitat `E:`.  
-5. Deshabilitar un dels discos del pool per **simular una fallada**.  
-6. Verificar que els fitxers continuen accessibles.  
-7. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**.
+4. Copiar alguns fitxers de prova a la unitat `E:`.
+
+<img src="img/fitxersprova.png" width="500">
+
+6. Deshabilitar un dels discos del pool per **simular una fallada**.  
+7. Verificar que els fitxers continuen accessibles.  
+8. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**.
 
 ### **Captures de pantalla**
 _Afegir aquí les captures de la creació, la fallada simulada i la reconstrucció._
