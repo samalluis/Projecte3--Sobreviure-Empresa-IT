@@ -134,10 +134,13 @@ Configurar un espai amb **mirall triple** per protegir les dades davant la falla
 
 <img src="img/conftriple.png" width="500">
 
-2. Copiar fitxers de prova a la unitat `E:`.  
-3. Deshabilitar dos discos per simular una fallada múltiple.  
-4. Verificar que els fitxers continuen accessibles.  
-5. Reactivar els discos i comprovar la reconstrucció.
+2. Copiar fitxers de prova a la unitat `E:`.
+
+<img src="img/fitxersprovatriple.png" width="500">
+  
+4. Deshabilitar dos discos per simular una fallada múltiple.  
+5. Verificar que els fitxers continuen accessibles.  
+6. Reactivar els discos i comprovar la reconstrucció.
 
 ### **Captures de pantalla**
 _Afegir aquí les captures del procés i de la reconstrucció._
