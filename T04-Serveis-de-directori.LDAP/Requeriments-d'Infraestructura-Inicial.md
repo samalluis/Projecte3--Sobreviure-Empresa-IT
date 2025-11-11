@@ -3,8 +3,19 @@
 **R.INF.01** -
 Configuració de la màquina Server (Server Hostname). server.innovatechXX.test 
 
-
+- configuracio de la maquina:
+  
 <img src="img/sistemamaquina.png" width="500">
+
+<img src="img/xarxasmaquina.png" width="500">
+
+<img src="img/confmaquina.png" width="500">
+
+- Hostname:
+
+<img src="img/innovatech.png" width="500">
+
+<img src="img/compinnovatech.png" width="500">
 
 
 **R.INF.02** -
