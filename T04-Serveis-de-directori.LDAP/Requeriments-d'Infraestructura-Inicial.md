@@ -3,7 +3,7 @@
 **R.INF.01** -
 Configuració de la màquina Server (Server Hostname). server.innovatechXX.test 
 
-![ma](img/
+<img src="sistemamaquina.png" width="500">
 
 **R.INF.02** -
 Interfície de Xarxa Pública. NAT (Per accés a Internet i descàrrega de paquets).
