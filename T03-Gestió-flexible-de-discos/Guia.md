@@ -128,13 +128,13 @@ Configurar un espai amb **mirall triple** per protegir les dades davant la falla
 1. Creem un nou grup en el qual seleccionarem 5 discos (afegim dos mes si es necesari) i la configurarem de la seguent manera:  
    - Tipus: `Mirall de tres vies (Three-way mirror)`  
    - Mida: `10 GB`  
-   - Lletra d’unitat: `G:`
+   - Lletra d’unitat: `E:`
 
 <img src="img/discostriple.png" width="500">
 
 <img src="img/conftriple.png" width="500">
 
-2. Copiar fitxers de prova a la unitat `G:`.  
+2. Copiar fitxers de prova a la unitat `E:`.  
 3. Deshabilitar dos discos per simular una fallada múltiple.  
 4. Verificar que els fitxers continuen accessibles.  
 5. Reactivar els discos i comprovar la reconstrucció.
