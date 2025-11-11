@@ -35,6 +35,6 @@ Click aqui per anar a [REQUERIMENTS D'INFRASTRUCTURA](Requeriments-d'Infraestruc
 
 Click aqui per anar a [TASQUES D'IMPLEMENTACIO I CONFIGURACIO DEL SERVIDOR LDAP](Tasques-d'Implementació-i-Configuració-del-Servidor-LDAP.md)
 
-Click aqui per anar a [HOME](...)
+Click aqui per anar a [HOME](..)
 
 Click aqui per anar a [README](README.md)
