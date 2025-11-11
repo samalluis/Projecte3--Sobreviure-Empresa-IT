@@ -63,6 +63,6 @@ Click aqui per anar a [TASQUES D'IMPLEMENTACIO I CONFIGURACIO DEL SERVIDOR LDAP]
 
 Click aqui per anar a [INTEGRACIÓ DE CLIENT](Integració-de-Client.md)
 
-Click aqui per anar a [HOME](...)
+Click aqui per anar a [HOME](..)
 
 Click aqui per anar a [README](README.md)
