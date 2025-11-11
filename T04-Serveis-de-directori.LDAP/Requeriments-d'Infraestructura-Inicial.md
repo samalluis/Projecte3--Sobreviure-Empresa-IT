@@ -13,10 +13,19 @@ Configuració de la màquina Server (Server Hostname). server.innovatechXX.test
 
 - Hostname:
 
+Comanda: 
+```
+sudo nano /etc/hosts
+```
+
 <img src="img/innovatech.png" width="500">
 
 <img src="img/compinnovatech.png" width="500">
 
+Comanda per si necesitas canviar en nom del server: 
+```
+sudo hostnamectl set-hostname nom
+```
 
 **R.INF.02** -
 Interfície de Xarxa Pública. NAT (Per accés a Internet i descàrrega de paquets).
