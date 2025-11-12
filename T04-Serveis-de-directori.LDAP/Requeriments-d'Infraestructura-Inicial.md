@@ -59,9 +59,9 @@ sudo netplan apply
 
 ---
 
-Click aqui per anar a [TASQUES D'IMPLEMENTACIO I CONFIGURACIO DEL SERVIDOR LDAP](Tasques-d'Implementació-i-Configuració-del-Servidor-LDAP.md)
+Click aqui per anar a [ 2. TASQUES D'IMPLEMENTACIO I CONFIGURACIO DEL SERVIDOR LDAP](Tasques-d'Implementació-i-Configuració-del-Servidor-LDAP.md)
 
-Click aqui per anar a [INTEGRACIÓ DE CLIENT](Integració-de-Client.md)
+Click aqui per anar a [ 3. INTEGRACIÓ DE CLIENT](Integració-de-Client.md)
 
 Click aqui per anar a [HOME](..)
 
