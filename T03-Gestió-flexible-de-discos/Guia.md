@@ -110,7 +110,7 @@ Un cop el tinguem configurat creem el grup.
 
 ![discos](img/L.png)
 
-Eliminem del grup el disc que te la fallada, per aixo tindrem que esperar un rato fins que hens sorti l'opcio de **"Quitar"**.
+- Eliminem del grup el disc que te la fallada, per aixo tindrem que esperar un rato fins que hens sorti l'opcio de **"Quitar"**.
 
 ![discos](img/M.png)
 
@@ -118,7 +118,7 @@ Eliminem del grup el disc que te la fallada, per aixo tindrem que esperar un rat
 
 ![discos](img/O.png)
 
-I finalment comprovem que la recontruccio s'aixi fet correctament, que es pot veure que s'ha fet correctament, ja que al afegir el tercer disc aquest a copiat tot el fitxers que tenia el primer, utilitzant el mateix espai de disc que el primer.
+- I finalment comprovem que la recontruccio s'aixi fet correctament, que es pot veure que s'ha fet correctament, ja que al afegir el tercer disc aquest a copiat tot el fitxers que tenia el primer, utilitzant el mateix espai de disc que el primer.
 
 ![discos](img/P.png)
 
@@ -133,20 +133,59 @@ Crear un espai amb **resiliència de paritat** per mantenir les dades amb menys 
 ### **Procediment**
 Discos que utilitzarem:
 
-1. Dins del mateix pool, crear un nou espai:  
+![discos](img/AP.png)
+
+1. Igual que abans anem a l'apartat de **"Espacios de almacenamiento"**, creem un nou grup i ara seleccionarem 3 discos.
+
+![discos](img/BP.png)
+
+2. Configurem el grup de la següent manera:  
    - Tipus: `Paritat`  
-   - Mida: `10 GB`  
-   - Lletra d’unitat: `F:`  
-2. Copiar fitxers de prova a la unitat `F:`.  
-3. Deshabilitar un disc per simular una fallada.  
-4. Verificar que les dades segueixen accessibles.  
-5. Reactivar el disc i comprovar la reconstrucció.
+   - Mida: `18 GB`  
+   - Lletra d’unitat: `E:`
 
-### **Captures de pantalla**
-_Afegir aquí les captures del procés i comprovació._
+Com a de quedar: 
 
-### **Verificació**
-L’espai de paritat permet l’accés a les dades durant la fallada i es reconstrueix correctament després.
+![discos](img/CP.png)
+
+Un cop tenim a configuracio correcta creem el grup.
+
+![discos](img/DP.png)
+
+3. Copiar fitxers de prova a la unitat.
+
+![discos](img/EP.png)
+ 
+4. Deshabilitar un disc per simular una fallada, per aixo tanquem la maquina i eliminem un dels discos del pool.
+
+![discos](img/FP.png)
+
+![discos](img/HP.png)
+
+
+6. Verificar que les dades segueixen accessibles tot i la fallada.
+
+![discos](img/GP.png)
+
+8. Reactivar el disc i comprovar la reconstrucció.
+
+![discos](img/IP.png)
+
+![discos](img/JP.png)
+
+- En aquesta captura es pot veure com el disc que acabem d'afegir ja s'esta utilitzant, recronstuint la informació que tenia el disc de la fallada:
+
+![discos](img/KP.png)
+
+- Eliminem el disc amb la fallada:
+
+![discos](img/LP.png)
+
+![discos](img/MP.png)
+
+- I comprovem que la informació esta correcta:
+
+![discos](img/NP.png)
 
 ---
 
