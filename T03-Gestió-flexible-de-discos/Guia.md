@@ -59,40 +59,69 @@ Apendre a com crear un grup d'emmagatzematge
 Configurar un espai amb **mirall doble** per garantir la disponibilitat de les dades en cas de fallada d’un disc.
 
 ### **Procediment**
-1. Dins del grup que hem creat anteriorment amb dos discos, fer clic a **“Crea un espai d’emmagatzematge nou”**.
+Discos necesaris:
 
-<img src="img/crearnougrup.png" width="500">
+![discos](img/A.png)
 
-3. Configurar de la següent manera:
+1. Entrem al **"Administrador de discos"** e inicialitzarem un disc seleccionan els 3 discos que hem creat anteriorment utilitzant l'estil de particio **GPT**.
+
+![discos](img/B.png)
+
+2. Ara entrem a **"Espacios de almacenamiento"** i crearem un nou grup i espai d'emmagetzematge
+
+![discos](img/C.png)
+
+3. Seleccionem dos discos i creem el grup.
+
+![discos](img/D.png)
+
+4. Configurar de la següent manera:
    - Tipus de resiliència: `Mirall doble (Reflejo doble)`  
    - Mida: `10 GB`  
    - Lletra d’unitat: `E:`
 
-<img src="img/confespejo.png" width="500">
+Com a de quedar:
 
-4. Copiar alguns fitxers de prova a la unitat `E:`.
+![discos](img/E.png)
 
-<img src="img/fitxersprova.png" width="500">
+Un cop el tinguem configurat creem el grup.
 
-6. Deshabilitar un dels discos del pool per **simular una fallada**.
-
-<img src="img/elimdisco.png" width="500">
-
-<img src="img/compresistenciaespejo.png" width="500">
+![discos](img/F.png)
 
 
-8. Verificar que els fitxers continuen accessibles.
+5. Copiar alguns fitxers de prova a la unitat `E:`.
 
-<img src="img/compespejo.png" width="500">
+![discos](img/G.png)
 
-10. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**.
+6. Deshabilitar un dels discos del pool per **simular una fallada**, per aixo tancarem la maquina i eliminarem un disc del pool
 
-<img src="img/afegirdisc.png" width="500">
+![discos](img/H.png)
+
+![discos](img/J.png)
 
 
+8. Verifiquem que els fitxers continuen accessibles.
 
-### **Verificació**
-Els fitxers tornan a ser accessibles després de la fallada i la reconstrucció es realitza automàticament.
+![discos](img/I.png)
+
+10. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**, per aixo anem a **"Espacios de almacenamiento"**, anem al grup i seleccionem l'opcio de afegir un disc al grup.
+
+![discos](img/K.png)
+
+![discos](img/L.png)
+
+Eliminem del grup el disc que te la fallada, per aixo tindrem que esperar un rato fins que hens sorti l'opcio de **"Quitar"**.
+
+![discos](img/M.png)
+
+![discos](img/N.png)
+
+![discos](img/O.png)
+
+I finalment comprovem que la recontruccio s'aixi fet correctament, que es pot veure que s'ha fet correctament, ja que al afegir el tercer disc aquest a copiat tot el fitxers que tenia el primer, utilitzant el mateix espai de disc que el primer.
+
+![discos](img/P.png)
+
 
 ---
 
