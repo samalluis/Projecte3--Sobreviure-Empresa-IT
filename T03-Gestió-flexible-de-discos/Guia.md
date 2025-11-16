@@ -106,7 +106,9 @@ Un cop el tinguem configurat creem el grup.
 
 10. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**, per aixo anem a **"Espacios de almacenamiento"**, anem al grup i seleccionem l'opcio de afegir un disc al grup.
 
-![discos](img/K.png)
+
+![discos](img/K.i.png)
+
 
 ![discos](img/L.png)
 
