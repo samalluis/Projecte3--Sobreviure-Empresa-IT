@@ -197,28 +197,45 @@ Un cop tenim a configuracio correcta creem el grup.
 Configurar un espai amb **mirall triple** per protegir les dades davant la fallada simultània de dos discos.
 
 ### **Procediment**
-1. Creem un nou grup en el qual seleccionarem 5 discos (afegim dos mes si es necesari) i la configurarem de la seguent manera:  
+Discos que utilitzarem:
+
+![discos](img/AT.png)
+
+1. Creem un nou grup en el qual seleccionarem 5 discos.
+
+![discos](img/BT.png)
+
+3. La configurem de la seguent manera:  
    - Tipus: `Mirall de tres vies (Three-way mirror)`  
    - Mida: `10 GB`  
    - Lletra d’unitat: `E:`
+Com a de quedar:
 
-<img src="img/discostriple.png" width="500">
+![discos](img/CT.png)
 
-<img src="img/conftriple.png" width="500">
+![discos](img/DT.png)
 
-2. Copiar fitxers de prova a la unitat `E:`.
+2. Copiar fitxers de prova a la unitat.
 
-<img src="img/fitxersprovatriple.png" width="500">
+![discos](img/ET.png)
   
-4. Deshabilitar dos discos per simular una fallada múltiple.  
-5. Verificar que els fitxers continuen accessibles.  
-6. Reactivar els discos i comprovar la reconstrucció.
+4. Deshabilitar un disc per simular una fallada (aquest podria soportar fins a dues fallades de disc).
 
-### **Captures de pantalla**
-_Afegir aquí les captures del procés i de la reconstrucció._
+![discos](img/GT.png)
 
-### **Verificació**
-Les dades continuen accessibles malgrat la fallada de dos discos. El sistema reconstrueix el mirall automàticament.
+6. Verificar que els fitxers continuen accessibles.
+
+![discos](img/FT.png)
+
+8. Reactivar els discos i comprovar la reconstrucció.
+
+![discos](img/HT.png)
+
+![discos](img/IT.png)
+
+![discos](img/JT.png)
+
+![discos](img/KT.png)
 
 ---
 
