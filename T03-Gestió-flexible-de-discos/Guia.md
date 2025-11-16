@@ -169,7 +169,7 @@ Un cop tenim a configuracio correcta creem el grup.
 
 ![discos](img/GP.png)
 
-8. Reactivar el disc i comprovar la reconstrucció.
+8. Reactivar el disc i comprovar la reconstrucció. Tanquem la maquina, afegim un nou disc al pool, obrim la maquina, anem a l'apartat **"Espacios de almacenamiento"**, al grup de paritat i seleccionem l'opcio de afegir un disc al grup.
 
 ![discos](img/IP.png)
 
