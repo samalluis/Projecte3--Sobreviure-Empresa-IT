@@ -131,6 +131,8 @@ I finalment comprovem que la recontruccio s'aixi fet correctament, que es pot ve
 Crear un espai amb **resiliència de paritat** per mantenir les dades amb menys espai dedicat a còpies.
 
 ### **Procediment**
+Discos que utilitzarem:
+
 1. Dins del mateix pool, crear un nou espai:  
    - Tipus: `Paritat`  
    - Mida: `10 GB`  
