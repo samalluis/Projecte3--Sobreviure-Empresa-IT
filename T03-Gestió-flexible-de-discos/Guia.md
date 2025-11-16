@@ -64,19 +64,19 @@ Discos necesaris:
 <img src="img/A.png" width="600">
 
 
-1. Entrem al **"Administrador de discos"** e inicialitzarem un disc seleccionan els 3 discos que hem creat anteriorment utilitzant l'estil de particio **GPT**.
+#### 1. Entrem al **"Administrador de discos"** e inicialitzarem un disc seleccionan els 3 discos que hem creat anteriorment utilitzant l'estil de particio **GPT**.
 
 <img src="img/B.png" width="600">
 
-2. Ara entrem a **"Espacios de almacenamiento"** i crearem un nou grup i espai d'emmagetzematge
+#### 2. Ara entrem a **"Espacios de almacenamiento"** i crearem un nou grup i espai d'emmagetzematge
 
 <img src="img/C.png" width="600">
 
-3. Seleccionem dos discos i creem el grup.
+#### 3. Seleccionem dos discos i creem el grup.
 
 <img src="img/D.png" width="600">
 
-4. Configurar de la següent manera:
+#### 4. Configurar de la següent manera:
    - Tipus de resiliència: `Mirall doble (Reflejo doble)`  
    - Mida: `10 GB`  
    - Lletra d’unitat: `E:`
@@ -90,22 +90,22 @@ Un cop el tinguem configurat creem el grup.
 <img src="img/F.png" width="600">
 
 
-5. Copiar alguns fitxers de prova a la unitat `E:`.
+#### 5. Copiar alguns fitxers de prova a la unitat `E:`.
 
 <img src="img/G.png" width="600">
 
-6. Deshabilitar un dels discos del pool per **simular una fallada**, per aixo tancarem la maquina i eliminarem un disc del pool
+#### 6. Deshabilitar un dels discos del pool per **simular una fallada**, per aixo tancarem la maquina i eliminarem un disc del pool
 
 <img src="img/H.png" width="600">
 
 <img src="img/J.png" width="600">
 
 
-8. Verifiquem que els fitxers continuen accessibles.
+#### 8. Verifiquem que els fitxers continuen accessibles.
 
 <img src="img/I.png" width="600">
 
-10. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**, per aixo anem a **"Espacios de almacenamiento"**, anem al grup i seleccionem l'opcio de afegir un disc al grup.
+#### 10. Tornar a habilitar el disc i comprovar la **reconstrucció automàtica**, per aixo anem a **"Espacios de almacenamiento"**, anem al grup i seleccionem l'opcio de afegir un disc al grup.
 
 
 <img src="img/K.i.png" width="600">
@@ -138,11 +138,11 @@ Discos que utilitzarem:
 
 <img src="img/AP.png" width="600">
 
-1. Igual que abans anem a l'apartat de **"Espacios de almacenamiento"**, creem un nou grup i ara seleccionarem 3 discos.
+#### 1. Igual que abans anem a l'apartat de **"Espacios de almacenamiento"**, creem un nou grup i ara seleccionarem 3 discos.
 
 <img src="img/BP.png" width="600">
 
-2. Configurem el grup de la següent manera:  
+#### 2. Configurem el grup de la següent manera:  
    - Tipus: `Paritat`  
    - Mida: `18 GB`  
    - Lletra d’unitat: `E:`
@@ -155,22 +155,22 @@ Un cop tenim a configuracio correcta creem el grup.
 
 <img src="img/DP.png" width="600">
 
-3. Copiar fitxers de prova a la unitat.
+#### 3. Copiar fitxers de prova a la unitat.
 
 <img src="img/EP.png" width="600">
 
-4. Deshabilitar un disc per simular una fallada, per aixo tanquem la maquina i eliminem un dels discos del pool.
+#### 4. Deshabilitar un disc per simular una fallada, per aixo tanquem la maquina i eliminem un dels discos del pool.
 
 <img src="img/FP.png" width="600">
 
 <img src="img/HP.png" width="600">
 
 
-6. Verificar que les dades segueixen accessibles tot i la fallada.
+#### 6. Verificar que les dades segueixen accessibles tot i la fallada.
 
 <img src="img/GP.png" width="600">
 
-8. Reactivar el disc i comprovar la reconstrucció. Tanquem la maquina, afegim un nou disc al pool, obrim la maquina, anem a l'apartat **"Espacios de almacenamiento"**, al grup de paritat i seleccionem l'opcio de afegir un disc al grup.
+#### 8. Reactivar el disc i comprovar la reconstrucció. Tanquem la maquina, afegim un nou disc al pool, obrim la maquina, anem a l'apartat **"Espacios de almacenamiento"**, al grup de paritat i seleccionem l'opcio de afegir un disc al grup.
 
 <img src="img/IP.png" width="600">
 
@@ -202,11 +202,11 @@ Discos que utilitzarem:
 
 <img src="img/AT.png" width="600">
 
-1. Creem un nou grup en el qual seleccionarem 5 discos.
+#### 1. Creem un nou grup en el qual seleccionarem 5 discos.
 
 <img src="img/BT.png" width="600">
 
-3. La configurem de la seguent manera:  
+#### 3. La configurem de la seguent manera:  
    - Tipus: `Mirall de tres vies (Three-way mirror)`  
    - Mida: `10 GB`  
    - Lletra d’unitat: `E:`
@@ -216,19 +216,19 @@ Com a de quedar:
 
 <img src="img/DT.png" width="600">
 
-2. Copiar fitxers de prova a la unitat.
+#### 2. Copiar fitxers de prova a la unitat.
 
 <img src="img/ET.png" width="600">
   
-4. Deshabilitar un disc per simular una fallada (aquest podria soportar fins a dues fallades de disc). El proces es el mateix que els dos anteriors, apagar maquina, eliminem disc del pool.
+#### 4. Deshabilitar un disc per simular una fallada (aquest podria soportar fins a dues fallades de disc). El proces es el mateix que els dos anteriors, apagar maquina, eliminem disc del pool.
 
 <img src="img/GT.png" width="600">
 
-6. Verificar que els fitxers continuen accessibles.
+#### 6. Verificar que els fitxers continuen accessibles.
 
 <img src="img/FT.png" width="600">
 
-8. Reactivar els discos i comprovar la reconstrucció. apaguem la maquina, afegim un disc nou al pool, obrim la maquina, anem al grup i afegim el disc al grup.
+#### 8. Reactivar els discos i comprovar la reconstrucció. apaguem la maquina, afegim un disc nou al pool, obrim la maquina, anem al grup i afegim el disc al grup.
 
 <img src="img/HT.png" width="600">
 
