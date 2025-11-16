@@ -220,7 +220,7 @@ Com a de quedar:
 
 <img src="img/ET.png" width="600">
   
-4. Deshabilitar un disc per simular una fallada (aquest podria soportar fins a dues fallades de disc).
+4. Deshabilitar un disc per simular una fallada (aquest podria soportar fins a dues fallades de disc). El proces es el mateix que els dos anteriors, apagar maquina, eliminem disc del pool.
 
 <img src="img/GT.png" width="600">
 
@@ -228,7 +228,7 @@ Com a de quedar:
 
 <img src="img/FT.png" width="600">
 
-8. Reactivar els discos i comprovar la reconstrucció.
+8. Reactivar els discos i comprovar la reconstrucció. apaguem la maquina, afegim un disc nou al pool, obrim la maquina, anem al grup i afegim el disc al grup.
 
 <img src="img/HT.png" width="600">
 
