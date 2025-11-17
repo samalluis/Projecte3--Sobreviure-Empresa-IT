@@ -11,7 +11,7 @@ S'ha de mostrar el resultat de la comanda slapcat per validar la instal·lació 
 ```
 sudo apt install slapd ldap-utils -y
 ```
-Despres de introduir la comanda
+Despres de introduir la comanda fiquem la contraseña `p@ssw0rd` i com a nom de l'organització `inovatechXX.test`, per exemple, en el meu cas es `innovatech07.test`
 
 - Verificacio de la instalacio base:
 ```
