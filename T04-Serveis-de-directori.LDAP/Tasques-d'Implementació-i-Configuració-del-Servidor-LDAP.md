@@ -7,6 +7,16 @@ La Consultora EverPia ha de complir estrictament amb les següents tasques d'ins
 Instal·lació del servei OpenLDAP.
 S'ha de mostrar el resultat de la comanda slapcat per validar la instal·lació base.
 
+Comanda per instalar bind9
+```
+sudo apt install bind9 -y
+```
+
+Verificacio de la instalacio base
+```
+slapcat
+```
+
 **T.LDAP.02** -
 Configuració de la base de dades.
 Nom del Domini: innovatechXX.test
