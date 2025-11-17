@@ -7,14 +7,18 @@ La Consultora EverPia ha de complir estrictament amb les següents tasques d'ins
 Instal·lació del servei OpenLDAP.
 S'ha de mostrar el resultat de la comanda slapcat per validar la instal·lació base.
 
-Comanda per instalar bind9
+- Comanda per instalar ldap:
 ```
-sudo apt install bind9 -y
+sudo apt install slapd ldap-utils -y
 ```
+Despres de introduir la comanda
 
-Verificacio de la instalacio base
+- Verificacio de la instalacio base:
 ```
-slapcat
+sudo slapcat
+```
+```
+systemctl status slapd
 ```
 
 **T.LDAP.02** -
