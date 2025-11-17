@@ -21,13 +21,41 @@ sudo slapcat
 systemctl status slapd
 ```
 
-**T.LDAP.02** -
+**T.LDAP.02 i T.LDAP.03** 
 Configuració de la base de dades.
 Nom del Domini: innovatechXX.test
 
-**T.LDAP.03** -
 Configuració de la contrasenya d'administrador.
 Contrasenya: p@ssw0rd
+
+Si en el pas anterior hens hem equivocat utilitzarem la seguent comanda:
+```
+sudo dpkg-reconfigure slapd
+```
+
+![](url)
+
+Diem que no volem cancel·lar la configuracio de la BDD, atès que és el que volem fer.
+
+![](url)
+
+Posem el nom corresponent al directori que volem crear.
+
+![](url)
+
+Introduim el nom de l'organització que a de ser `innovatechXX.test`.
+
+![](url)
+
+Contrasenya de l'adrministrador que ha de ser `p@ssw0rd`
+
+![](url)
+
+I acceptem les dos seguents opcions de configuració
+
+![](url)
+
+![](url)
 
 **T.LDAP.04** -
 Creació d'Unitats Organitzatives (OU) inicials.
