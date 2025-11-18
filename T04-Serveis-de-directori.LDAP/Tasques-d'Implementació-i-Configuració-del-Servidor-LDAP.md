@@ -41,29 +41,21 @@ Si en el pas anterior hens hem equivocat utilitzarem la seguent comanda:
 sudo dpkg-reconfigure slapd
 ```
 
-![fsdssd](url)
-
 Diem que no volem cancel·lar la configuracio de la BDD, atès que és el que volem fer.
-
-![fsdfs](url)
 
 Posem el nom corresponent al directori que volem crear.
 
-![sdfsd](url)
+![sdfsd](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-11-11%20162702.png?raw=true)
 
 Introduim el nom de l'organització que a de ser `innovatechXX.test`.
 
-![sdf](url)
+![sdf](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-11-11%20162718.png?raw=true)
 
 Contrasenya de l'adrministrador que ha de ser `p@ssw0rd`
 
-![sdfsf](url)
+![sdfsf](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-11-11%20162738.png?raw=true)
 
 I acceptem les dos seguents opcions de configuració
-
-![](url)
-
-![](url)
 
 **T.LDAP.04** -
 Creació d'Unitats Organitzatives (OU) inicials.
