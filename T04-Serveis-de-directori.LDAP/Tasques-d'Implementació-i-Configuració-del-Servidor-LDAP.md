@@ -99,14 +99,48 @@ Realitzar una consulta amb ldapsearch que mostri totes les OUs creades al direct
 Instal·lació del Gestor d'Usuaris LDAP (LAM).
 S'ha de documentar la comanda d'instal·lació.
 
+- s
+
+![xzxzxzxzzxzxzxzx](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-28%20153636.png?raw=true)
+
 **T.LAM.02** -
 Accés Remot i Configuració.
 Connectar a LAM des de la màquina física utilitzant l'adreça IP de la interfície Host-Only.
+
+- Ip que hem de utilitzar:
+
+![ip](img/aaa.png)
+
+- Anem a un navegador i introduim la ip seguidament de ``/lam``, un cop dins anem a ``LAM configurations``, despres a ``Edit server profiles`` e introduim la contrasenya ``lam`` per poder entrar:
+
+![dasdaddadadada](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-28%20154439.png?raw=true)
+
+![dadadasdadadasdadsasd](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-28%20154454.png?raw=true)
+
+![adadadadasda](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-28%20154516.png?raw=true)
+
 
 **T.LAM.03** -
 Configuració per defecte.
 Establir la configuració predeterminada perquè els nous usuaris s'ubiquin a l'OU users i els nous grups a l'OU groups.
 
+- Primer canviem el idioma i regio:
+
+![idioma](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-28%20154647.png?raw=true)
+
+- Ara anem al tool settings e fiquem el nostre domini i extensio:
+
+![cap](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-28%20154808.png?raw=true)
+
+- Canviem la contrasenya per ``p@ssw0rd``:
+
+![hola](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-28%20154835.png?raw=true)
+
+- Editem las preferencies del servidor de la seguent manera:
+
+![preferenies](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-28%20163242.png?raw=true)
+
+I ara nomes queda guardar la configuracio i tornar a la pantalla de login e iniciar sessio amb l'usuari ``admin`` i contrasenya ``p@ssw0rd``
 **T.LAM.04** -
 Creació de Grups.
 Crear dos grups de seguretat al directori: tech i manager.
@@ -114,6 +148,29 @@ Crear dos grups de seguretat al directori: tech i manager.
 **T.LAM.05** -
 Creació d'Usuaris de Prova.
 Crear un usuari per a cada grup: tech01 (membre de tech) i manager01 (membre de manager).
+
+- Introduim els noms corresponents (tech01 o manager01), anem a l'apartat de ``Unix`` i seleccionem ``Crear grupo con mismo nombre``:
+
+![ahola](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-29%20180611.png?raw=true)
+
+- Un cop creat entrem a ``Editar grupos`` e introduim en ``Grupos seleccionados`` el grup corresponent en aquest cas el grup sera el ``manager``:
+
+![adasddadadadaasa](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-29%20180624.png?raw=true)
+
+![gghfhfghgfhf](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-29%20180639.png?raw=true)
+
+- Si volem comprovar si s'ha configurat correctament anem als grups i entrem a l'opcio de ``Editar miembros``:
+
+![miembros](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-29%20181110.png?raw=true)
+
+![ououuouo](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-29%20180803.png?raw=true)
+
+I repetim el mateix proces amb l'usuari tech01.
+
+- Com s'hauria de veure l'apartat de grups:
+
+![grups](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-29%20180953.png?raw=true)
+
 
 ---
 
