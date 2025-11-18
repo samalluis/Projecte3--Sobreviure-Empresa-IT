@@ -1,11 +1,10 @@
 
-# Guia Completa de LVM amb Discos Virtuals a VirtualBox (Markdown)
+# Guia Completa de LVM amb Discos Virtuals a VirtualBox 
 
-Aquesta guia està totalment adaptada al format **Markdown**.
 
 ---
 
-## 📌 1. Creació dels Discos Virtuals de 10 GB a VirtualBox
+##  1. Creació dels Discos Virtuals de 10 GB a VirtualBox
 
 ### **1.1. Pantalla inicial d'emmagatzematge**
 
@@ -27,7 +26,7 @@ Assegura't que la mida és exactament **10 GB**.
 
 ---
 
-## 📌 2. Procediment Correcte per Crear els 4 Discos de 10 GB
+##  2. Procediment Correcte per Crear els 4 Discos de 10 GB
 
 1. Obrir: `Configuració → Emmagatzematge`.
 2. Seleccionar **Controlador SATA**.
@@ -41,7 +40,7 @@ Assegura't que la mida és exactament **10 GB**.
 
 ---
 
-## 📌 3. Configuració Inicial d'LVM (PV + VG + LV)
+##  3. Configuració Inicial d'LVM (PV + VG + LV)
 
 ### **3.1. Crear particions LVM**
 
@@ -94,7 +93,7 @@ Funció: Crear punt de muntatge i muntar el LV al sistema.
 
 ---
 
-## 📌 4. Alta Disponibilitat: Mirall LVM
+##  4. Alta Disponibilitat: Mirall LVM
 
 
 
@@ -106,7 +105,7 @@ Funció: Convertir un LV normal en un LV mirall (redundat).
 
 ---
 
-## 📌 5. Instantànies (Snapshots)
+## 5. Instantànies (Snapshots)
 
 ### **5.1. Afegir dos discos nous i ampliar el VG**
 
@@ -167,7 +166,7 @@ Funció: Fusiona el snapshot per tornar l’LV a l’estat anterior.
 
 ---
 
-## 📌 6. Escalabilitat: Ampliar LV
+## 6. Escalabilitat: Ampliar LV
 
 ### **6.1. Ampliar volum**
 
