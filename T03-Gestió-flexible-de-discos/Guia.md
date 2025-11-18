@@ -13,6 +13,8 @@ Aquesta imatge mostra els discs existents assignats al controlador SATA:
 
 ![Controlador SATA](img/volgrup3.png)
 
+(Jo no tinc res a veure amb l'ho de Carlitos)
+
 ---
 
 ### **1.2. Creació d'un nou disc virtual de 10 GB
