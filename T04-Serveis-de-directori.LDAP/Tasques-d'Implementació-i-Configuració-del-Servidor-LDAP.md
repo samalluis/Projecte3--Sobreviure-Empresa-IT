@@ -41,23 +41,23 @@ Si en el pas anterior hens hem equivocat utilitzarem la seguent comanda:
 sudo dpkg-reconfigure slapd
 ```
 
-![](url)
+![fsdssd](url)
 
 Diem que no volem cancel·lar la configuracio de la BDD, atès que és el que volem fer.
 
-![](url)
+![fsdfs](url)
 
 Posem el nom corresponent al directori que volem crear.
 
-![](url)
+![sdfsd](url)
 
 Introduim el nom de l'organització que a de ser `innovatechXX.test`.
 
-![](url)
+![sdf](url)
 
 Contrasenya de l'adrministrador que ha de ser `p@ssw0rd`
 
-![](url)
+![sdfsf](url)
 
 I acceptem les dos seguents opcions de configuració
 
