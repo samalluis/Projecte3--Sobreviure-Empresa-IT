@@ -61,9 +61,37 @@ I acceptem les dos seguents opcions de configuració
 Creació d'Unitats Organitzatives (OU) inicials.
 S'han de crear dues OUs: users i groups mitjançant un fitxer .ldif.
 
+- Creem els fitxers:
+
+![fs](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-22%20183317.png?raw=true)
+
+![dad](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-22%20183327.png?raw=true)
+
+- Els editem:
+
+![dasd](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-11-18%20151754.png?raw=true)
+
+![dadad](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-11-18%20151809.png?raw=true)
+
+- I els afegim:
+
+![sSaa](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-22%20183335.png?raw=true)
+
+![dadadda](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-22%20183347.png?raw=true)
+
 **T.LDAP.05** -
 Validació de les Unitats Organitzatives.
 Realitzar una consulta amb ldapsearch que mostri totes les OUs creades al directori.
+
+- Consultem si esta correcta:
+  
+![dadsadasdad](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-22%20183651.png?raw=true)
+
+- I si necesitem eliminarlos es de la seguent manera:
+
+![dadadadsad](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-22%20184130.png?raw=true)
+
+![zcxzczczc](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-22%20184317.png?raw=true)
 
 ### 3.2. Gestió i Administració (LAM)
 
