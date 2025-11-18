@@ -11,6 +11,9 @@ S'ha de mostrar el resultat de la comanda slapcat per validar la instal·lació 
 ```
 sudo apt install slapd ldap-utils -y
 ```
+
+![hfgh](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-21%20162439.png?raw=true)
+
 Despres de introduir la comanda fiquem la contraseña `p@ssw0rd` i com a nom de l'organització `inovatechXX.test`, per exemple, en el meu cas es `innovatech07.test`
 
 - Verificacio de la instalacio base:
