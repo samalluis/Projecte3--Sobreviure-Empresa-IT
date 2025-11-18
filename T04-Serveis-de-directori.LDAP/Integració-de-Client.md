@@ -4,6 +4,12 @@
 Instal·lació del Client.
 Instal·lar un client Ubuntu Desktop i configurar la interfície de xarxa per comunicar-se amb el servidor (Host-Only).
 
+- Configuracio maquina client:
+
+![client](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-11-18%20160314.png?raw=true)
+
+IMPORTANT!!! Abans de ficar la maquina en xarxa interna hem de utilitzar **NAT** o **xarxa NAT** per installar el bind9.
+
 **T.CLI.02** -
 Resolució de Noms.
 Configurar l'arxiu d'hosts del client per resoldre l'adreça IP del servidor a server.innovatechXX.test. S'ha de proporcionar una instantània (snapshot) de la màquina client un cop fet el canvi.
