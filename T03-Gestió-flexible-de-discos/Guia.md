@@ -164,6 +164,7 @@ sudo umount /mnt/lvm_dades
 sudo lvconvert --merge /dev/vg_dades/lv_snapshot
 ```
 Funció: Fusiona el snapshot per tornar l’LV a l’estat anterior.
+
 ---
 
 ## 📌 6. Escalabilitat: Ampliar LV
@@ -174,6 +175,7 @@ Funció: Fusiona el snapshot per tornar l’LV a l’estat anterior.
 sudo lvextend -L +2G /dev/vg_dades/lvm_dades
 ```
 Funció: Afegir 2 GB extra al volum lògic.
+
 
 ### **6.2. Redimensionar FS**
 
