@@ -20,9 +20,14 @@ Despres de introduir la comanda fiquem la contraseña `p@ssw0rd` i com a nom de 
 ```
 sudo slapcat
 ```
+
+![gdfg](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-21%20162608.png?raw=true)
+
 ```
 systemctl status slapd
 ```
+
+![dasda](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-21%20162529.png?raw=true)
 
 **T.LDAP.02 i T.LDAP.03** 
 Configuració de la base de dades.
