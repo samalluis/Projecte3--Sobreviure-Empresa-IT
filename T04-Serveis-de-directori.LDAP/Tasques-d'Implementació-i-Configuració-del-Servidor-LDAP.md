@@ -141,9 +141,14 @@ Establir la configuració predeterminada perquè els nous usuaris s'ubiquin a l'
 ![preferenies](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-28%20163242.png?raw=true)
 
 I ara nomes queda guardar la configuracio i tornar a la pantalla de login e iniciar sessio amb l'usuari ``admin`` i contrasenya ``p@ssw0rd``
+
 **T.LAM.04** -
 Creació de Grups.
 Crear dos grups de seguretat al directori: tech i manager.
+
+- Per crear els grups es sencill, simplement anirem a ``Nuevo grupo``, fiquem el nom necesari ``tech`` o ``manager`` i creem el grup.
+
+![grupa](https://github.com/samalluis/Projecte3--Sobreviure-Empresa-IT/blob/main/T04-Serveis-de-directori.LDAP/img/Captura%20de%20pantalla%202025-10-28%20162409.png?raw=true)
 
 **T.LAM.05** -
 Creació d'Usuaris de Prova.
