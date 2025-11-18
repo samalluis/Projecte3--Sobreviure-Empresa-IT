@@ -11,7 +11,7 @@ Aquesta guia està totalment adaptada al format **Markdown**.
 
 Aquesta imatge mostra els discs existents assignats al controlador SATA:
 
-![Controlador SATA](IMG/volgrup3.png)
+![Controlador SATA](img/volgrup3.png)
 
 ---
 
@@ -19,7 +19,7 @@ Aquesta imatge mostra els discs existents assignats al controlador SATA:
 
 Assegura't que la mida és exactament **10 GB**.
 
-![Creació VDI 10GB](IMG/10gb.png)
+![Creació VDI 10GB](img/10gb.png)
 
 ---
 
@@ -52,7 +52,7 @@ Defineix tipus `8e` (Linux LVM).
 
 ### **3.2. Crear volums físics (PV)**
 
-![volgrub](IMG/pvcrate.png)
+![volgrub](img/pvcrate.png)
 
 ```bash
 sudo pvcreate /dev/sdb1 /dev/sdc1
@@ -65,7 +65,7 @@ sudo vgcreate vg_dades /dev/sdb1 /dev/sdc1
 ```
 
 ### **3.4. Crear volum lògic (LV)**
-![l](IMG/L.png)
+![l](img/L.png)
 ```bash
 sudo lvcreate -L 5G -n lv_dades vg_dades
 ```
